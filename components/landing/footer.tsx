@@ -7,14 +7,14 @@ const footerLinks = {
     { label: "Security", href: "#" },
   ],
   company: [
-    { label: "About", href: "#" },
-    { label: "Blog", href: "#" },
-    { label: "Careers", href: "#" },
+    { label: "About", href: "/about" },
+    { label: "Blog", href: "/blog" },
+    { label: "Careers", href: "/careers" },
   ],
   legal: [
-    { label: "Privacy", href: "#" },
-    { label: "Terms", href: "#" },
-    { label: "Contact", href: "#" },
+    { label: "Privacy", href: "/privacy" },
+    { label: "Terms", href: "/terms" },
+    { label: "Contact", href: "/contact" },
   ],
 }
 
